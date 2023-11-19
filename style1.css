@@ -152,6 +152,30 @@
 
 .img-card-2 {background-image: url(img/card-2.png);}
 
+.img-card-4 {background-image: url(img/card-4.png);}
+
+.btn-time {
+    background-color: #fff;
+    border-radius: 5px;
+    color: #111;
+    padding: 6px 12px;
+    display: inline-block;
+    margin-right: 8px;
+}
+
+.btn-raiting {
+    width: 77px;
+    background-color: #111;
+    border-radius: 5px;
+    color: #fff;
+    padding: 6px 0px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.img-card-3 {background-image: url(img/card-3.png);}
+
 .footer {
     background-color: #f5f6f8;
     padding: 60px 0;
